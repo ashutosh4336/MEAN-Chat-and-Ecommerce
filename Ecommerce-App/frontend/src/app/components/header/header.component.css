@@ -1,0 +1,21 @@
+.bgcolor {
+  background-color: #19B0C8 !important;
+}
+.navbar-brand {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bolder;
+  font-size: xx-large;
+  height: 100%;
+  padding: 5px;
+}
+
+.collapse {
+  font-family: 'Roboto', sans-serif;
+  font-size: large;
+}
+
+#logout {
+  font-family: 'Roboto', sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
